@@ -1,2 +1,3 @@
-#WebView预加载
-![Preload](./img/demo.gif)
+# WebView预加载
+
+![Preload](./img/screen.gif)
